@@ -8,7 +8,7 @@ Portfolio containing the projects from CS-319 UI/UX Design and Development.
 
 ### Wireframe
 
-![project 1 wireframe](Wireframe%20-%20Tree%20App.pdf)
+![project 1 wireframe](Wireframe%20-%20Tree%20App.png)
 
 ### Paper Prototypes
 
@@ -24,7 +24,7 @@ Portfolio containing the projects from CS-319 UI/UX Design and Development.
 
 ### Wireframe
 
-![project 2 wireframe](Wireframe%20-%20Kiva%20App.pdf)
+![project 2 wireframe](Wireframe%20-%20Kiva%20App.png)
 
 ### Paper Prototype
 
