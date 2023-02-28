@@ -2,6 +2,9 @@
 
 Portfolio containing the projects from CS-319 UI/UX Design and Development.
 
+- [Project 1](#project-1)
+- [Project 2](#project-2)
+
 ## Project 1
 
 [Report](../Project%201.pdf)
